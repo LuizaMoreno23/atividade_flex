@@ -23,7 +23,7 @@ h1 {
     display: flex;
     justify-content: flex-end;
     align-items: flex-start;
-    flex-direction: cl;
+    flex-direction: row;
 }
 
 .filho {
